@@ -1,3 +1,3 @@
 # Front-End-Clone
-this is an amazon- clone
+this is an Amazon Clone-
 Author:Divya
